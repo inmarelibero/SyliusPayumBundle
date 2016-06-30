@@ -30,7 +30,7 @@
         "payum/payum-bundle": "~1.0",
         "sylius/core": "dev-symfony_3_compatibility",
         "sylius/currency": "dev-symfony_3_compatibility",
-        "sylius/order-bundle": "^0.19",
+        "sylius/order-bundle": "dev-symfony_3_compatibility",
         "sylius/payment-bundle": "dev-symfony_3_compatibility",
         "sylius/resource-bundle": "dev-symfony_3_compatibility"
     },
